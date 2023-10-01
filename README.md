@@ -1,2 +1,1 @@
-# free
-Free Scrips
+# Free Scripts
